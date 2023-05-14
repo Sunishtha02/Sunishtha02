@@ -8,8 +8,11 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
+
+<p>
 <a align="center"><img align="left" alt="gif" src="https://github.com/Sunishtha02/Sunishtha02/blob/main/gif.gif"  height="400" width="500"></a>
 <a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/sunishtha02/sunishtha02/blob/main/github.gif?raw=true"></a>
+    </p>
 
 <!-- <a target="_blank"><img align="center" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/sunishtha02/sunishtha02/blob/main/cutecartoon.gif?raw=true"></a> -->
 <br/>
