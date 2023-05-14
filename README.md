@@ -8,7 +8,7 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
-<!-- <p align="center"><img align="center" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/gif.gif" width="500" height="320"></p> -->
+<p align="center"><img align="center" alt="gif" src="https://github.com/Sunishtha02/Sunishtha02/blob/main/gif.gif" width="500" height="320"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sunishtha02&label=Profile%20views&color=0e75b6&style=flat" alt="Sunishtha02" /> </p>
 
